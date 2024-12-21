@@ -1,4 +1,3 @@
 test lệnh git
 test lệnh git2
-test lệnh git commit --amend 1
 test lệnh git commit --amend 2
