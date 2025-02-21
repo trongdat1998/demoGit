@@ -1,1 +1,1 @@
-![alt](https://images2.thanhnien.vn/528068263637045248/2024/1/25/c3c8177f2e6142e8c4885dbff89eb92a-65a11aeea03da880-1706156293184503262817.jpg)
+![alt](image/1.jpg)
